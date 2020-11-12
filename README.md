@@ -11,8 +11,8 @@ I am a Cyber Security Enthusiast and student 💻, I break into applications for
 - ✔️ Forensics 
 
 ### Find me around the world 🌍
+
 - Twitter : [@Louuubs](https://twitter.com/Louuubs)
 - LinkedIn : [Alex Loubiere](https://www.linkedin.com/in/alex-loubi%C3%A8re-a86804113/)
-- Medium : [@Asm0d3us](https://medium.com/@Asm0d3us)
 
 ![](https://komarev.com/ghpvc/?username=loubibi&color=brightgreen)
