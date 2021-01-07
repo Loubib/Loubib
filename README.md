@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Alex (Loubibi) 
 
-I am a Cyber Security Enthusiast and student 💻, I break into applications for fun and profit. I play CTFs very often as Loubibi , I love 💖 doing things for the infosec community and i'm writing a blog (loading ....)
+I am a Cyber Security Enthusiast and student 💻, I break into applications for fun and profit. I play CTFs very often as Loubibi , I 💖 doing things for the infosec community and i'm writing a blog (loading ....)
 
 ### My skillset 🔧
 
